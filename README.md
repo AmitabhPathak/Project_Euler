@@ -1,2 +1,2 @@
 # Project-Euler 
-In this i will solve all the problem associated with project euler in coding
+In this i will solve all the problem associated with project euler in coding.
